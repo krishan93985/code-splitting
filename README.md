@@ -8,14 +8,11 @@ Implemented component based code splitting using:
 
 ## Use
 
--when main bundle size is large, splitting into chunks and serving while needed improves performance.
-
-### `npm start`
-
-
-## Available Scripts
+-when main bundle size is large, splitting into chunks and serving while needed improves performance. 
 
 In the project directory, you can run:
+
+### `npm start`
 
 Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 
